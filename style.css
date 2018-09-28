@@ -1,0 +1,14 @@
+html {
+  font-family: monospace;
+}
+
+body {
+  max-width: 800px;
+  min-width: 480px;
+  margin: 0 auto;
+}
+
+.column {
+  width: 50%;
+  float: left;
+}
